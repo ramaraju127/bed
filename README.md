@@ -1,0 +1,2 @@
+# bed
+all hospital
